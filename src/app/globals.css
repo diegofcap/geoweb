@@ -1,5 +1,11 @@
 @import "tailwindcss";
 
+.ol-overlaycontainer,
+.ol-viewport,
+.ol-unselectable {
+  font-family: inherit;
+}
+
 :root {
   --background: #ffffff;
   --foreground: #171717;
